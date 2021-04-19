@@ -3,7 +3,7 @@
 ## Kelas : TI.19.B2
 
 # Tugas Pert-6
-1. <b>Membuat Box Element</b>
+# 1. <b>Membuat Box Element</b>
 # Left
 ![web1](https://user-images.githubusercontent.com/81587959/115259656-46b0ff00-a15c-11eb-9b22-0c4331e9b031.PNG)
 
@@ -23,7 +23,7 @@
 ![web33](https://user-images.githubusercontent.com/81587959/115260107-a5767880-a15c-11eb-9ef2-cd2c7db9a048.PNG)
 
 
-2. <b>Membuat Layout Sederhana</b>
+# 2. <b>Membuat Layout Sederhana</b>
 # Coding Html.
 ![web4](https://user-images.githubusercontent.com/81587959/115260543-0dc55a00-a15d-11eb-842e-987a1fa24c4d.PNG)
 
@@ -44,7 +44,7 @@
 ![web555555](https://user-images.githubusercontent.com/81587959/115262008-55001a80-a15e-11eb-9b60-fb4873297769.PNG)
 
 
-3. Membuat Menu About
+# 3. <b>Membuat Menu About</b>
 # Coding Html
 ![web6](https://user-images.githubusercontent.com/81587959/115262169-7bbe5100-a15e-11eb-89d1-3cfef6aa45ce.PNG)
 
@@ -52,7 +52,7 @@
 ![web66](https://user-images.githubusercontent.com/81587959/115262205-837df580-a15e-11eb-92aa-c5e29e820079.PNG)
 
 
-4. Membuat Kontak Dengan Form Isian.
+# 4. <b>Membuat Kontak Dengan Form Isian</b>
 # Coding Html
 ![web8](https://user-images.githubusercontent.com/81587959/115262711-fd15e380-a15e-11eb-97c0-dcde983c0d4d.PNG)
 ![web88](https://user-images.githubusercontent.com/81587959/115262732-01da9780-a15f-11eb-9e7f-91e322c8f5d5.PNG)
@@ -62,7 +62,7 @@
 ![web 77777](https://user-images.githubusercontent.com/81587959/115262824-1323a400-a15f-11eb-824a-a956f3730eae.PNG)
 
 
-5. Tampilan Setelah Jadi
+# 5. <b>Tampilan Setelah Jadi</b>
 ![999](https://user-images.githubusercontent.com/81587959/115263107-55e57c00-a15f-11eb-9eb8-2dee9d8186dd.PNG)
 
 
